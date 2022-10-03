@@ -1,0 +1,11 @@
+-s , (--kernel-name)
+-n , (--nodename)
+-r , (--kernel-release)
+-v , (--kernel-version)
+-m , (--machine)
+-p , (--processor)
+-i , (--hardware-platform)
+-0 , (--operating-system)
+-a , (--all)
+--help
+--version
