@@ -1,3 +1,4 @@
+#!/bin/bash
 -s , (--kernel-name)
 -n , (--nodename)
 -r , (--kernel-release)
